@@ -1,0 +1,90 @@
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\Introduçao aspNet.dll.config
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\Introduçao aspNet.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\Introduçao aspNet.pdb
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\csc.exe
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\csc.exe.config
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\csc.rsp
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\csi.exe
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\csi.exe.config
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\csi.rsp
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\System.AppContext.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\System.Console.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\System.Security.Claims.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\vbc.exe
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\vbc.exe.config
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\vbc.rsp
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\Antlr3.Runtime.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\Newtonsoft.Json.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\System.Web.Helpers.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\System.Web.Mvc.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\System.Web.Optimization.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\System.Web.Razor.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\System.Web.WebPages.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\WebGrease.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\System.Web.Helpers.xml
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\System.Web.Mvc.xml
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\System.Web.Optimization.xml
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\System.Web.Razor.xml
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\System.Web.WebPages.xml
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\Newtonsoft.Json.xml
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\Antlr3.Runtime.pdb
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\obj\Debug\Introduçao aspNet.csprojAssemblyReference.cache
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\obj\Debug\Introduçao aspNet.csproj.CopyComplete
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\obj\Debug\Introduçao aspNet.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\obj\Debug\Introduçao aspNet.pdb
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\EntityFramework.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\EntityFramework.SqlServer.dll
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\EntityFramework.xml
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\bin\EntityFramework.SqlServer.xml
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\obj\Debug\Introduçao_aspNet.Migrations.Initial.resources
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\obj\Debug\Introduçao aspNet.csproj.GenerateResource.cache
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\obj\Debug\Introduçao_aspNet.Migrations.Rating.resources
+C:\Users\Vaio\Documents\ASP.NET\Introduçao aspNet\Introduçao aspNet\obj\Debug\Introduçao_aspNet.Migrations.DataAnnotations.resources
